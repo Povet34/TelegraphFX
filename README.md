@@ -1,2 +1,2 @@
-# TelegraphFX
+# TelegraphFX - Omen
 TelegraphFX
